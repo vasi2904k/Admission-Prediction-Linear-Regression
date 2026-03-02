@@ -55,8 +55,9 @@ The model was evaluated using:
 - R² Score
 
 ### 📌 Model Performance:
-R² Score: 0.780613892079095
-RMSE: 0.07526809620765003
+R² Score: 0.78
+
+RMSE: 0.08
 
 ---
 
