@@ -40,7 +40,7 @@ The dataset contains student academic details and profile ratings.
 2. Data Cleaning  
 3. Correlation Analysis  
 4. Train-Test Split  
-5. Multiple Linear Regression Model Training  
+5. Simple Linear Regression Model Training  
 6. Model Evaluation  
 
 ---
